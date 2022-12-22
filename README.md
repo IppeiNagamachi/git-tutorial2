@@ -12,3 +12,5 @@ feature-A
 =======
 pull確認用push
 >>>>>>> dcef93cc51e88078befa79a131ac9be6843c9557
+
+編集を続けてみる
