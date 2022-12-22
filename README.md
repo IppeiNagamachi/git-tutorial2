@@ -7,3 +7,4 @@ feature-Bの変化は?
 12/19の編集
 12/19日三回目
 feature-A
+pull確認用push
